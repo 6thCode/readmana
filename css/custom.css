@@ -1,0 +1,27 @@
+/*
+* Readmana Stylesheet version 1.0.0
+* 6thCode
+*/
+
+html {
+	font-family: arial;
+}
+
+.r-nav {
+	border-top: 4px solid #f00;
+	margin-top: -2px;
+	background-color: #284B2B;
+	color:#fff;
+}
+
+.r-footer {
+	background-color: #284B2B;
+	color:#FFF;
+	height: 200px;
+
+}
+
+.r-footer-line {
+	border-top: 1px solid #FFF;
+	margin-top: 100px;
+}
